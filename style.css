@@ -1,0 +1,33 @@
+*{
+	margin: 0 auto;
+}
+.input {
+	margin-bottom: 20px
+	display: block;
+	text-align: center;
+
+}
+
+label {
+	font-size: 25px;
+
+}
+body {
+	background-image: url("images/melbourne.jpg");
+	background-size: cover;
+	color: white;
+}
+#gmap_canvas {
+	position: absolute;
+	right: 25px;
+	bottom: 25px;
+	color: black;
+}
+h1 {
+	margin-bottom: 50px;
+}
+button {
+	margin-top: 25px;
+	display: block;
+	text-align: center;
+}
